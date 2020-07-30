@@ -6,7 +6,7 @@ description: >-
   With a single interface for Slack’s Web API, Events API, and interactive features, 
   Bolt gives you the full power of the Slack platform out of the box.
 baseurl: /bolt-js
-url: https://stevengill.github.io/
+# url: https://stevengill.github.io/
 
 collections:
   basic:
